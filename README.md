@@ -3,7 +3,7 @@
 
 `jab` is heavily inspired by [uber-go/fx](https://github.com/uber-go/fx).
 
-Using type annoted classes and functions, `jab` makes it easy to take advantage of Dependency Injection without any extra work. When a harness's `provide` method is called, all provided constructors will be wired together to produce a harness of instantiated objects with their appropriate dependencies.
+Using type annotated classes and functions, `jab` makes it easy to take advantage of Dependency Injection without any extra work. When a harness's `provide` method is called, all provided constructors will be wired together to produce a harness of instantiated objects with their appropriate dependencies.
 
 ## Usage
 ### Example
